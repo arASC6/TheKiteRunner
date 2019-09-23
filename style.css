@@ -1,0 +1,173 @@
+.section {
+    height: 100vh;
+    text-align: center;
+    color: white;
+    /* padding-top: 56px;
+    margin-bottom: 56px; */
+}
+
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-image: url("maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* filter: grayscale(100%); */
+}
+
+.jumbotext{
+    background-color: rgba(0, 0, 0, 0.0)
+}
+.trial{
+    border-radius: 25px;
+}
+.author{
+    
+
+}
+#slogan{
+    font-size: 60px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+}
+
+#subtext{
+    font-size: 30px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+
+#Buybttn{
+    margin-bottom: 5vh;
+    margin-top:83vh;
+}
+.summary {
+    font-size: 70px;
+    
+    text-align: center;
+}
+.summary1{
+    font-size: 60px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+
+}
+.summary2{
+    font-size: 60px;
+    padding-left: 140vh;
+    padding-right: 0vh;
+    padding-top: 5vh;
+
+}
+#div1{
+    background-color: rgb(101, 221, 221);
+    padding-top: 10vh;
+    margin-top: 10vh;
+
+    
+}
+
+/* #about{
+    font-size: 35px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+} */
+
+#div2{
+  
+    padding-top: 10vh;
+    margin-top: 10vh;
+    background-color: rgb(66, 65, 65);
+
+}
+.setting {
+    
+    
+    text-align: center;
+}
+.setting1{
+    
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+
+}
+.font-weight-bold{
+    font-size: 70px;
+}
+.title{
+    font-size: 75px;
+}
+.summary2{
+    
+    padding-left: 140vh;
+    padding-right: 0vh;
+    padding-top: 5vh;
+
+}
+ #div3{
+    padding-top: 10vh;
+    margin-top: 10vh;
+    background-color: darkolivegreen;
+    padding-top: 10vh;
+    
+    
+} 
+
+#process{
+    padding-top: 5vh;
+    text-align: center;
+}
+
+
+#div4{
+    background-color: darkgray;
+    filter: grayscale(100%);
+    padding-top: 10vh;
+    height: 500px    
+}
+
+.links{
+    font-size: 40px;
+}
+
+@media screen and (max-width: 600px) {
+    .title{
+        font-size: 25px;
+        
+
+    }
+    .font-weight-bold{
+        font-size: 20px;
+        
+    }
+}
+@media screen and (max-width: 900px) {
+    .title{
+        font-size: 35px;
+    }
+    .font-weight-bold{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .title{
+        font-size: 45px;
+    }
+    .font-weight-bold{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .title{
+        font-size: 45px;
+    }
+    .font-weight-bold{
+        font-size: 40px;
+    }
+}
