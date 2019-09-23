@@ -9,7 +9,7 @@
 .jumbotron{
     text-align: center;
     color: white;
-    background-image: url("maxresdefault.jpg");
+    background-image: url("thekiterunner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -22,10 +22,7 @@
 .trial{
     border-radius: 25px;
 }
-.author{
-    
 
-}
 #slogan{
     font-size: 60px;
     padding-left: 10vh;
@@ -130,10 +127,11 @@
     padding-top: 10vh;
     height: 500px    
 }
+.author{
+margin-bottom:50px;
 
-.links{
-    font-size: 40px;
 }
+
 
 @media screen and (max-width: 600px) {
     .title{
